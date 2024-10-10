@@ -1,5 +1,6 @@
 use std::fs;
 
+use indicatif::ProgressIterator;
 use ioh_scrap::Item;
 use teloxide::{
     prelude::{Request, Requester},
@@ -23,7 +24,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         asize.cmp(&bsize)
     });
 
-    for item in data.iter() {
+    for item in data.iter().progress() {
         println!("{}: {}", item.document_counter, item.title);
 
         let file_names = match &item.sound_urls {
@@ -70,20 +71,32 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             .collect::<Vec<InputMedia>>();
 
         loop {
-            match bot
-                .send_media_group(chat_id.clone(), media.clone())
-                .send()
-                .await
-            {
-                Ok(_) => break,
-                Err(e) => {
-                    println!("Error: {}", e);
-                    tokio::time::sleep(tokio::time::Duration::from_secs(5)).await;
+            if cnt_files > 0 {
+                match bot
+                    .send_media_group(chat_id.clone(), media.clone())
+                    .send()
+                    .await
+                {
+                    Ok(_) => break,
+                    Err(e) => {
+                        println!("Error: {}", e);
+                        tokio::time::sleep(tokio::time::Duration::from_secs(5)).await;
+                    }
+                }
+            } else {
+                match bot
+                    .send_message(chat_id.clone(), caption.clone())
+                    .send()
+                    .await
+                {
+                    Ok(_) => break,
+                    Err(e) => {
+                        println!("Error: {}", e);
+                        tokio::time::sleep(tokio::time::Duration::from_secs(5)).await;
+                    }
                 }
             }
         }
-
-        break;
     }
 
     Ok(())
