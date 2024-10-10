@@ -1,0 +1,33 @@
+[package]
+name = "ioh-scrap"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "scrap"
+path = "src/scrap.rs"
+
+[[bin]]
+name = "extract"
+path = "src/extract_data.rs"
+
+[[bin]]
+name = "scrap-audio"
+path = "src/scrap_audio_items.rs"
+
+[[bin]]
+name = "download-audio"
+path = "src/download_audio.rs"
+
+
+[dependencies]
+indicatif = "0.17.8"
+rand = "0.8.5"
+rayon = "1.10.0"
+reqwest = "0.11"
+scraper = "0.13.0"
+serde = "1.0.210"
+serde_json = "1.0.128"
+sha2 = "0.10.8"
+thirtyfour = "0.34.0"
+tokio = { version = "1.22.0", features = ["full"] }
