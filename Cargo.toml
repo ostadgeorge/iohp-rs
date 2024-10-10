@@ -23,6 +23,10 @@ path = "src/download_audio.rs"
 name = "upload-telegram"
 path = "src/upload_telegram.rs"
 
+[[bin]]
+name = "compress"
+path = "src/compress.rs"
+
 [dependencies]
 indicatif = "0.17.8"
 rand = "0.8.5"

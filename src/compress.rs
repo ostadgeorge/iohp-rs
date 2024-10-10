@@ -5,7 +5,7 @@ use ioh_scrap::Item;
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error + Send + Sync>> {
-    println!("Start Downloading Audio");
+    println!("Compress Audio!");
 
     let data: Vec<Item> = serde_json::from_str(&fs::read_to_string("data_with_sound.json")?)?;
     let urls: Vec<String> = data
@@ -20,14 +20,12 @@ async fn main() -> Result<(), Box<dyn Error + Send + Sync>> {
         .enable_time()
         .build()?;
 
-    println!("Count Audio: {}", urls.len());
-
     let chunks = urls.chunks(16);
     for chunk in chunks.progress() {
         let mut futs = vec![];
 
         for url in chunk {
-            let fut = thread_pool.spawn(download_audio(url.clone()));
+            let fut = thread_pool.spawn(compress_audio(url.clone()));
             futs.push(fut);
         }
 
@@ -41,35 +39,25 @@ async fn main() -> Result<(), Box<dyn Error + Send + Sync>> {
     Ok(())
 }
 
-async fn download_audio(url: String) -> Result<(), Box<dyn Error + Send + Sync>> {
+async fn compress_audio(url: String) -> Result<(), Box<dyn Error + Send + Sync>> {
     let file_name = ioh_scrap::file_name_by_url(&url, "mp3");
     let file_path = format!("audio/{}", file_name);
 
-    println!("Downloading: {} | Url: {}", file_name, url);
+    println!("Compressing: {}", file_name);
 
-    if fs::metadata("audio").is_err() {
-        fs::create_dir("audio")?;
-    }
-
-    if fs::metadata(&file_path).is_ok() {
-        println!("Skip: {}", file_name);
-        return Ok(());
-    }
-
-    // ffmpeg -protocol_whitelist file,http,https,tcp,tls,crypto -i "url" -c copy "file_name"
+    // ffmpeg -i file.mp3 -ab 32k -f ogg file.ogg
     let _ = std::process::Command::new("ffmpeg")
         .args(&[
-            "-protocol_whitelist",
-            "file,http,https,tcp,tls,crypto",
             "-i",
-            &url,
-            "-c",
-            "copy",
             &file_path,
-        ])
-        .output()?;
+            "-ab",
+            "32k",
+            "-f",
+            "ogg",
+            format!("audio/{}", ioh_scrap::file_name_by_url(&url, "ogg")).as_str(),
+        ]).output()?;
 
-    println!("Downloaded: {}", file_name);
+    print!("Compressed: {}", file_name);
 
     Ok(())
 }

@@ -11,7 +11,7 @@ pub struct Item {
     pub sound_urls: Option<Vec<String>>,
 }
 
-pub fn file_name_by_url(url: &str) -> String {
+pub fn file_name_by_url(url: &str, ext: &str) -> String {
     let hash = sha2::Sha256::digest(url.as_bytes());
-    format!("{:x}.mp3", hash)
+    format!("{:x}.{}", hash, ext)
 }

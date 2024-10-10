@@ -30,7 +30,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         let file_names = match &item.sound_urls {
             Some(urls) => urls
                 .iter()
-                .map(|url| format!("./audio/{}", ioh_scrap::file_name_by_url(url)))
+                .map(|url| format!("./audio/{}", ioh_scrap::file_name_by_url(url, "ogg")))
                 .collect::<Vec<String>>(),
             None => vec![],
         };
