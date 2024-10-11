@@ -73,6 +73,7 @@ async fn process_item(
         Some(url) => url,
         None => {
             println!("Audio not found for {}", item.title);
+            ctx.lock().await.items.push(item);
             return Ok(());
         }
     };
