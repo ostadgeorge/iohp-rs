@@ -11910,5 +11910,2264 @@
       "https://mps.lib.harvard.edu/vod/_definst_/smil:s3/drs-delivery-prod/460348849_2.smil_0FCE606831CE64F0814BC0781997ACB6/playlist.m3u8",
       "https://mps.lib.harvard.edu/vod/_definst_/smil:s3/drs-delivery-prod/460348849_3.smil_0FCE606831CE64F0814BC0781997ACB6/playlist.m3u8"
     ]
+  },
+  {
+    "document_counter": "5.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 01",
+    "metadata": {
+      "Interview Date": "1984-02-14",
+      "Language": "Persian",
+      "Interviewee": "Adamiyatt, Tahmouress",
+      "Interviewer": "Zia Sedghi"
+    }
+  },
+  {
+    "document_counter": "6.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 02",
+    "metadata": {
+      "Interviewer": "Zia Sedghi",
+      "Interviewee": "Adamiyatt, Tahmouress",
+      "Language": "Persian",
+      "Interview Date": "1984-02-14"
+    }
+  },
+  {
+    "document_counter": "7.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 03",
+    "metadata": {
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian",
+      "Interviewee": "Adamiyatt, Tahmouress",
+      "Interview Date": "1984-02-15"
+    }
+  },
+  {
+    "document_counter": "8.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 04",
+    "metadata": {
+      "Language": "Persian",
+      "Interview Date": "1984-02-15",
+      "Interviewee": "Adamiyatt, Tahmouress",
+      "Interviewer": "Zia Sedghi"
+    }
+  },
+  {
+    "document_counter": "9.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 05",
+    "metadata": {
+      "Interviewee": "Adamiyatt, Tahmouress",
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1984-02-15"
+    }
+  },
+  {
+    "document_counter": "10.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 06",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewee": "Adamiyatt, Tahmouress",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1984-02-15"
+    }
+  },
+  {
+    "document_counter": "11.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 07",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interviewee": "Adamiyatt, Tahmouress",
+      "Interview Date": "1984-02-16"
+    }
+  },
+  {
+    "document_counter": "12.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 08",
+    "metadata": {
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1984-02-16",
+      "Language": "Persian",
+      "Interviewee": "Adamiyatt, Tahmouress"
+    }
+  },
+  {
+    "document_counter": "13.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 09",
+    "metadata": {
+      "Interviewee": "Adamiyatt, Tahmouress",
+      "Interview Date": "1984-02-16",
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "14.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 10",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewee": "Adamiyatt, Tahmouress",
+      "Interview Date": "1984-02-16",
+      "Interviewer": "Zia Sedghi"
+    }
+  },
+  {
+    "document_counter": "15.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 11",
+    "metadata": {
+      "Interviewee": "Adamiyatt, Tahmouress",
+      "Language": "Persian",
+      "Interview Date": "1984-02-17",
+      "Interviewer": "Zia Sedghi"
+    }
+  },
+  {
+    "document_counter": "16.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 12",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interviewee": "Adamiyatt, Tahmouress",
+      "Interview Date": "1984-02-17"
+    }
+  },
+  {
+    "document_counter": "17.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 13",
+    "metadata": {
+      "Interviewee": "Adamiyatt, Tahmouress",
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1984-02-17"
+    }
+  },
+  {
+    "document_counter": "18.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 14",
+    "metadata": {
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1984-02-17",
+      "Interviewee": "Adamiyatt, Tahmouress",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "19.",
+    "title": "Interview with Adamiyatt, Tahmouress: Tape 15",
+    "metadata": {
+      "Interview Date": "1984-02-17",
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian",
+      "Interviewee": "Adamiyatt, Tahmouress"
+    }
+  },
+  {
+    "document_counter": "41.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 01",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Language": "Persian",
+      "Interview Date": "1984-10-09",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433668"
+    }
+  },
+  {
+    "document_counter": "42.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 02",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Interview Date": "1984-10-09",
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433669"
+    }
+  },
+  {
+    "document_counter": "43.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 03",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433670",
+      "Interview Date": "1984-10-09"
+    }
+  },
+  {
+    "document_counter": "44.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 04",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433671",
+      "Interview Date": "1985-11-08",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "45.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 05",
+    "metadata": {
+      "Language": "Persian",
+      "Interview Date": "1985-11-08",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433672",
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "46.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 06",
+    "metadata": {
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Interview Date": "1985-11-09",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433673"
+    }
+  },
+  {
+    "document_counter": "47.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 07",
+    "metadata": {
+      "Interview Date": "1985-11-09",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433674",
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "48.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 08",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433675",
+      "Interview Date": "1985-11-09",
+      "Language": "Persian",
+      "Interviewee": "Alikhani, Ali-Naghi"
+    }
+  },
+  {
+    "document_counter": "49.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 09",
+    "metadata": {
+      "Interview Date": "1985-11-09",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433676",
+      "Language": "Persian",
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "50.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 10",
+    "metadata": {
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Interview Date": "1985-11-09",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433677",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "51.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 11",
+    "metadata": {
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433678",
+      "Interview Date": "1985-11-09",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "52.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 12",
+    "metadata": {
+      "Interview Date": "1985-11-09",
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433679"
+    }
+  },
+  {
+    "document_counter": "53.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 13",
+    "metadata": {
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433680",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1985-11-09",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "54.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 14",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433681",
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Interview Date": "1985-11-10",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "55.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 15",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433682",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Interview Date": "1985-11-10",
+      "Interviewee": "Alikhani, Ali-Naghi"
+    }
+  },
+  {
+    "document_counter": "56.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 16",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1985-11-10",
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433683",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "57.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 17",
+    "metadata": {
+      "Language": "Persian",
+      "Interview Date": "1985-11-10",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433684",
+      "Interviewee": "Alikhani, Ali-Naghi"
+    }
+  },
+  {
+    "document_counter": "58.",
+    "title": "Interview with Alikhani, Ali-Naghi: Tape 18",
+    "metadata": {
+      "Interviewee": "Alikhani, Ali-Naghi",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Interview Date": "1985-11-10",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433685"
+    }
+  },
+  {
+    "document_counter": "82.",
+    "title": "Interview with Amirkeivan, Amir: Tape 01",
+    "metadata": {
+      "Interview Date": "1984-03-08",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Amirkeivan, Amir",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "83.",
+    "title": "Interview with Amirkeivan, Amir: Tape 02",
+    "metadata": {
+      "Interview Date": "1984-03-08",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Interviewee": "Amirkeivan, Amir"
+    }
+  },
+  {
+    "document_counter": "84.",
+    "title": "Interview with Amirkeivan, Amir: Tape 03",
+    "metadata": {
+      "Language": "Persian",
+      "Interview Date": "1984-03-08",
+      "Interviewee": "Amirkeivan, Amir",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "85.",
+    "title": "Interview with Amirkeivan, Amir: Tape 04",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Amirkeivan, Amir",
+      "Interview Date": "1984-03-08"
+    }
+  },
+  {
+    "document_counter": "86.",
+    "title": "Interview with Amirkeivan, Amir: Tape 05",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewee": "Amirkeivan, Amir",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1984-03-08"
+    }
+  },
+  {
+    "document_counter": "87.",
+    "title": "Interview with Amirkeivan, Amir: Tape 06",
+    "metadata": {
+      "Interview Date": "1984-03-08",
+      "Language": "Persian",
+      "Interviewee": "Amirkeivan, Amir",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "88.",
+    "title": "Interview with Amirteymour, Mohammad-Ebrahim: Tape 01",
+    "metadata": {
+      "Interview Date": "1982-01-25",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:608997",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Interviewee": "Amirteymour, Mohammad-Ebrahim"
+    }
+  },
+  {
+    "document_counter": "89.",
+    "title": "Interview with Amirteymour, Mohammad-Ebrahim: Tape 02",
+    "metadata": {
+      "Interview Date": "1982-01-25",
+      "Language": "Persian",
+      "Interviewee": "Amirteymour, Mohammad-Ebrahim",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888050"
+    }
+  },
+  {
+    "document_counter": "90.",
+    "title": "Interview with Amirteymour, Mohammad-Ebrahim: Tape 03",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Amirteymour, Mohammad-Ebrahim",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888051",
+      "Interview Date": "1982-01-25",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "91.",
+    "title": "Interview with Amirteymour, Mohammad-Ebrahim: Tape 04",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888052",
+      "Interviewee": "Amirteymour, Mohammad-Ebrahim",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1982-01-25"
+    }
+  },
+  {
+    "document_counter": "92.",
+    "title": "Interview with Amirteymour, Mohammad-Ebrahim: Tape 05",
+    "metadata": {
+      "Interviewee": "Amirteymour, Mohammad-Ebrahim",
+      "Language": "Persian",
+      "Interview Date": "1982-02-03",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888053"
+    }
+  },
+  {
+    "document_counter": "93.",
+    "title": "Interview with Amirteymour, Mohammad-Ebrahim: Tape 06",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888054",
+      "Language": "Persian",
+      "Interview Date": "1982-02-03",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Amirteymour, Mohammad-Ebrahim"
+    }
+  },
+  {
+    "document_counter": "94.",
+    "title": "Interview with Amirteymour, Mohammad-Ebrahim: Tape 07",
+    "metadata": {
+      "Interviewee": "Amirteymour, Mohammad-Ebrahim",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888055",
+      "Language": "Persian",
+      "Interview Date": "1982-02-03",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "95.",
+    "title": "Interview with Amirteymour, Mohammad-Ebrahim: Tape 08",
+    "metadata": {
+      "Interviewee": "Amirteymour, Mohammad-Ebrahim",
+      "Interview Date": "1982-02-03",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888056",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "96.",
+    "title": "Interview with Amirteymour, Mohammad-Ebrahim: Tape 09",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888057",
+      "Interviewee": "Amirteymour, Mohammad-Ebrahim",
+      "Language": "Persian",
+      "Interview Date": "1982-02-03",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "489.",
+    "title": "Interview with Mahdavi, Fereidoun: Tape 01",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1984-06-09",
+      "Interviewee": "Mahdavi, Fereidoun",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433700"
+    }
+  },
+  {
+    "document_counter": "490.",
+    "title": "Interview with Mahdavi, Fereidoun: Tape 02",
+    "metadata": {
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian",
+      "Interviewee": "Mahdavi, Fereidoun",
+      "Interview Date": "1984-06-09",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433701"
+    }
+  },
+  {
+    "document_counter": "491.",
+    "title": "Interview with Mahdavi, Fereidoun: Tape 03",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1984-06-09",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433702",
+      "Interviewee": "Mahdavi, Fereidoun"
+    }
+  },
+  {
+    "document_counter": "492.",
+    "title": "Interview with Mahdavi, Fereidoun: Tape 04",
+    "metadata": {
+      "Interviewee": "Mahdavi, Fereidoun",
+      "Language": "Persian",
+      "Interview Date": "1984-06-10",
+      "Interviewer": "Zia Sedghi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433703"
+    }
+  },
+  {
+    "document_counter": "493.",
+    "title": "Interview with Mahdavi, Fereidoun: Tape 05",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433704",
+      "Interviewee": "Mahdavi, Fereidoun",
+      "Language": "Persian",
+      "Interview Date": "1984-06-10",
+      "Interviewer": "Zia Sedghi"
+    }
+  },
+  {
+    "document_counter": "494.",
+    "title": "Interview with Mahdavi, Fereidoun: Tape 06",
+    "metadata": {
+      "Interviewer": "Zia Sedghi",
+      "Interviewee": "Mahdavi, Fereidoun",
+      "Interview Date": "1984-06-20",
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433705"
+    }
+  },
+  {
+    "document_counter": "495.",
+    "title": "Interview with Mahdavi, Fereidoun: Tape 07",
+    "metadata": {
+      "Interview Date": "1984-06-20",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433706",
+      "Interviewer": "Zia Sedghi",
+      "Interviewee": "Mahdavi, Fereidoun",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "496.",
+    "title": "Interview with Mahdavi, Fereidoun: Tape 08",
+    "metadata": {
+      "Interview Date": "1984-06-20",
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian",
+      "Interviewee": "Mahdavi, Fereidoun",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433707"
+    }
+  },
+  {
+    "document_counter": "500.",
+    "title": "Interview with Mahvi, Abolfath: Tape 01",
+    "metadata": {
+      "Interviewee": "Mahvi, Abolfath",
+      "Interview Date": "1985-04-26",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:1276050",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "511.",
+    "title": "Interview with Matine-Daftary, Hedayatollah: Tape 08",
+    "metadata": {
+      "Interviewee": "Matine-Daftary, Hedayatollah",
+      "Interviewer": "Zia Sedghi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888348",
+      "Interview Date": "1984-05-28",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "512.",
+    "title": "Interview with Matine-Daftary, Hedayatollah: Tape 09",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interviewee": "Matine-Daftary, Hedayatollah",
+      "Interview Date": "1984-05-28",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888349"
+    }
+  },
+  {
+    "document_counter": "513.",
+    "title": "Interview with Matine-Daftary, Hedayatollah: Tape 10",
+    "metadata": {
+      "Interview Date": "1984-05-28",
+      "Interviewer": "Zia Sedghi",
+      "Interviewee": "Matine-Daftary, Hedayatollah",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888350",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "524.",
+    "title": "Interview with Mehr, Farhang: Tape 01",
+    "metadata": {
+      "Interviewee": "Mehr, Farhang",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1984-05-14",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433712"
+    }
+  },
+  {
+    "document_counter": "525.",
+    "title": "Interview with Mehr, Farhang: Tape 02",
+    "metadata": {
+      "Language": "Persian",
+      "Interview Date": "1984-05-14",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433713",
+      "Interviewee": "Mehr, Farhang",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "526.",
+    "title": "Interview with Mehr, Farhang: Tape 03",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewee": "Mehr, Farhang",
+      "Interview Date": "1984-05-14",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433714"
+    }
+  },
+  {
+    "document_counter": "527.",
+    "title": "Interview with Mehr, Farhang: Tape 04",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Mehr, Farhang",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433715",
+      "Interview Date": "1984-05-21"
+    }
+  },
+  {
+    "document_counter": "528.",
+    "title": "Interview with Mehr, Farhang: Tape 05",
+    "metadata": {
+      "Interview Date": "1984-05-21",
+      "Language": "Persian",
+      "Interviewee": "Mehr, Farhang",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433716"
+    }
+  },
+  {
+    "document_counter": "529.",
+    "title": "Interview with Mehr, Farhang: Tape 06",
+    "metadata": {
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433717",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1984-05-21",
+      "Interviewee": "Mehr, Farhang"
+    }
+  },
+  {
+    "document_counter": "530.",
+    "title": "Interview with Mehr, Farhang: Tape 07",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433718",
+      "Interviewee": "Mehr, Farhang",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1984-06-04"
+    }
+  },
+  {
+    "document_counter": "531.",
+    "title": "Interview with Mehr, Farhang: Tape 08",
+    "metadata": {
+      "Interview Date": "1984-06-04",
+      "Language": "Persian",
+      "Interviewee": "Mehr, Farhang",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433719"
+    }
+  },
+  {
+    "document_counter": "532.",
+    "title": "Interview with Mehr, Farhang: Tape 09",
+    "metadata": {
+      "Interviewee": "Mehr, Farhang",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1984-06-04",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433720"
+    }
+  },
+  {
+    "document_counter": "533.",
+    "title": "Interview with Mehr, Farhang: Tape 10",
+    "metadata": {
+      "Interview Date": "1986-01-22",
+      "Interviewee": "Mehr, Farhang",
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433721",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "534.",
+    "title": "Interview with Mehr, Farhang: Tape 11",
+    "metadata": {
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433722",
+      "Interviewee": "Mehr, Farhang",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1986-01-22"
+    }
+  },
+  {
+    "document_counter": "535.",
+    "title": "Interview with Mehr, Farhang: Tape 12",
+    "metadata": {
+      "Interviewee": "Mehr, Farhang",
+      "Language": "Persian",
+      "Interview Date": "1986-01-22",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433723",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "536.",
+    "title": "Interview with Mehr, Farhang: Tape 13",
+    "metadata": {
+      "Interview Date": "1986-02-05",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433724",
+      "Language": "Persian",
+      "Interviewee": "Mehr, Farhang",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "537.",
+    "title": "Interview with Mehr, Farhang: Tape 14",
+    "metadata": {
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433725",
+      "Interviewee": "Mehr, Farhang",
+      "Interview Date": "1986-02-05",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "538.",
+    "title": "Interview with Mehr, Farhang: Tape 15",
+    "metadata": {
+      "Interviewee": "Mehr, Farhang",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1986-02-05",
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433726"
+    }
+  },
+  {
+    "document_counter": "548.",
+    "title": "Interview with Mina, Parviz: Tape 01",
+    "metadata": {
+      "Interviewee": "Mina, Parviz",
+      "Interview Date": "1984-05-09",
+      "Interviewer": "Shahrokh Meskoob",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "549.",
+    "title": "Interview with Mina, Parviz: Tape 02",
+    "metadata": {
+      "Interviewee": "Mina, Parviz",
+      "Language": "Persian",
+      "Interviewer": "Shahrokh Meskoob",
+      "Interview Date": "1984-05-09"
+    }
+  },
+  {
+    "document_counter": "550.",
+    "title": "Interview with Mina, Parviz: Tape 03",
+    "metadata": {
+      "Interviewer": "Shahrokh Meskoob",
+      "Interviewee": "Mina, Parviz",
+      "Language": "Persian",
+      "Interview Date": "1984-05-23"
+    }
+  },
+  {
+    "document_counter": "551.",
+    "title": "Interview with Mina, Parviz: Tape 04",
+    "metadata": {
+      "Interviewee": "Mina, Parviz",
+      "Interview Date": "1984-05-23",
+      "Interviewer": "Shahrokh Meskoob",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "552.",
+    "title": "Interview with Mina, Parviz: Tape 05",
+    "metadata": {
+      "Language": "Persian",
+      "Interview Date": "1984-05-23",
+      "Interviewer": "Shahrokh Meskoob",
+      "Interviewee": "Mina, Parviz"
+    }
+  },
+  {
+    "document_counter": "553.",
+    "title": "Interview with Mina, Parviz: Tape 06",
+    "metadata": {
+      "Interviewer": "Shahrokh Meskoob",
+      "Interview Date": "1984-06-12",
+      "Interviewee": "Mina, Parviz",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "554.",
+    "title": "Interview with Mina, Parviz: Tape 07",
+    "metadata": {
+      "Interviewee": "Mina, Parviz",
+      "Interview Date": "1984-06-12",
+      "Language": "Persian",
+      "Interviewer": "Shahrokh Meskoob"
+    }
+  },
+  {
+    "document_counter": "555.",
+    "title": "Interview with Mina, Parviz: Tape 08",
+    "metadata": {
+      "Interviewee": "Mina, Parviz",
+      "Interviewer": "Shahrokh Meskoob",
+      "Language": "Persian",
+      "Interview Date": "1984-06-12"
+    }
+  },
+  {
+    "document_counter": "556.",
+    "title": "Interview with Minbashian, Fathollah: Tape 01",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Minbashian, Fathollah",
+      "Interview Date": "1981-12-01",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:622655",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "557.",
+    "title": "Interview with Minbashian, Fathollah: Tape 02",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Interviewee": "Minbashian, Fathollah",
+      "Interview Date": "1981-12-01",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888353"
+    }
+  },
+  {
+    "document_counter": "562.",
+    "title": "Interview with Mirzazadeh, Nemat: Tape 01",
+    "metadata": {
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian",
+      "Interview Date": "1984-05-25",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:611695",
+      "Interviewee": "Mirzazadeh, Nemat"
+    }
+  },
+  {
+    "document_counter": "563.",
+    "title": "Interview with Mirzazadeh, Nemat: Tape 02",
+    "metadata": {
+      "Interviewee": "Mirzazadeh, Nemat",
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888357",
+      "Interview Date": "1984-05-25"
+    }
+  },
+  {
+    "document_counter": "564.",
+    "title": "Interview with Mirzazadeh, Nemat: Tape 03",
+    "metadata": {
+      "Interviewee": "Mirzazadeh, Nemat",
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1984-05-25",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888358"
+    }
+  },
+  {
+    "document_counter": "790.",
+    "title": "Interview with Shadmehr, Mohammad-Hadi: Tape 01",
+    "metadata": {
+      "Interviewee": "Shadmehr, Mohammad-Hadi",
+      "Language": "Persian",
+      "Interview Date": "1998-10-09",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "791.",
+    "title": "Interview with Shadmehr, Mohammad-Hadi: Tape 02",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Shadmehr, Mohammad-Hadi",
+      "Interview Date": "1998-10-09"
+    }
+  },
+  {
+    "document_counter": "886.",
+    "title": "Interview with Ziai, Ahmad: Tape 01",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1985-06-24",
+      "Interviewee": "Ziai, Ahmad"
+    }
+  },
+  {
+    "document_counter": "887.",
+    "title": "Interview with Ziai, Ahmad: Tape 02",
+    "metadata": {
+      "Interviewee": "Ziai, Ahmad",
+      "Interview Date": "1985-06-24",
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi"
+    }
+  },
+  {
+    "document_counter": "888.",
+    "title": "Interview with Ziai, Ahmad: Tape 03",
+    "metadata": {
+      "Interviewee": "Ziai, Ahmad",
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian",
+      "Interview Date": "1985-07-01"
+    }
+  },
+  {
+    "document_counter": "889.",
+    "title": "Interview with Ziai, Ahmad: Tape 04",
+    "metadata": {
+      "Interviewer": "Zia Sedghi",
+      "Interviewee": "Ziai, Ahmad",
+      "Interview Date": "1985-07-01",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "890.",
+    "title": "Interview with Ziai, Ahmad: Tape 05",
+    "metadata": {
+      "Language": "Persian",
+      "Interview Date": "1985-07-01",
+      "Interviewee": "Ziai, Ahmad",
+      "Interviewer": "Zia Sedghi"
+    }
+  },
+  {
+    "document_counter": "701.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 01",
+    "metadata": {
+      "Interviewee": "Pirasteh, Mehdi",
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian",
+      "Interview Date": "1985-06-03",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433686"
+    }
+  },
+  {
+    "document_counter": "702.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 02",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433687",
+      "Interview Date": "1985-06-03",
+      "Interviewee": "Pirasteh, Mehdi",
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi"
+    }
+  },
+  {
+    "document_counter": "703.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 03",
+    "metadata": {
+      "Interviewer": "Zia Sedghi",
+      "Interviewee": "Pirasteh, Mehdi",
+      "Interview Date": "1985-06-06",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433688",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "704.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 04",
+    "metadata": {
+      "Interviewee": "Pirasteh, Mehdi",
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian",
+      "Interview Date": "1985-06-06",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433689"
+    }
+  },
+  {
+    "document_counter": "705.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 05",
+    "metadata": {
+      "Interviewee": "Pirasteh, Mehdi",
+      "Interview Date": "1985-06-06",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433690",
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "706.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 06",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433691",
+      "Interview Date": "1985-06-06",
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian",
+      "Interviewee": "Pirasteh, Mehdi"
+    }
+  },
+  {
+    "document_counter": "707.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 07",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Interview Date": "1985-10-22",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433692",
+      "Interviewee": "Pirasteh, Mehdi"
+    }
+  },
+  {
+    "document_counter": "708.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 08",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433693",
+      "Interviewee": "Pirasteh, Mehdi",
+      "Language": "Persian",
+      "Interview Date": "1985-10-22"
+    }
+  },
+  {
+    "document_counter": "709.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 09",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewee": "Pirasteh, Mehdi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433694",
+      "Interview Date": "1985-10-22",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "710.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 10",
+    "metadata": {
+      "Interviewee": "Pirasteh, Mehdi",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433695",
+      "Interview Date": "1985-10-24",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "711.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 11",
+    "metadata": {
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433696",
+      "Interviewee": "Pirasteh, Mehdi",
+      "Interview Date": "1985-10-24",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "712.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 12",
+    "metadata": {
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433697",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1985-10-24",
+      "Interviewee": "Pirasteh, Mehdi"
+    }
+  },
+  {
+    "document_counter": "713.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 13",
+    "metadata": {
+      "Language": "Persian",
+      "Interview Date": "1985-10-24",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433698",
+      "Interviewee": "Pirasteh, Mehdi",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "714.",
+    "title": "Interview with Pirasteh, Mehdi: Tape 14",
+    "metadata": {
+      "Interview Date": "1985-10-24",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433699",
+      "Interviewee": "Pirasteh, Mehdi",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "746.",
+    "title": "Interview with Rohani, Parvin: Tape 01",
+    "metadata": {
+      "Interviewee": "Rohani, Parvin",
+      "Interview Date": "1986-03-27",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "747.",
+    "title": "Interview with Rohani, Parvin: Tape 02",
+    "metadata": {
+      "Interviewee": "Rohani, Parvin",
+      "Interview Date": "1986-03-27",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "753.",
+    "title": "Interview with Salamatian, Ahmad: Tape 01",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1983-03-07",
+      "Interviewee": "Salamatian, Ahmad",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "97.",
+    "title": "Interview with Amirteymour, Mohammad-Ebrahim: Tape 10",
+    "metadata": {
+      "Interviewee": "Amirteymour, Mohammad-Ebrahim",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Interview Date": "1982-02-03",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888058"
+    }
+  },
+  {
+    "document_counter": "98.",
+    "title": "Interview with Ashtiani, Mohammad-Reza: Tape 01",
+    "metadata": {
+      "Interviewee": "Ashtiani, Mohammad-Reza",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:608998",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1982-01-28"
+    }
+  },
+  {
+    "document_counter": "99.",
+    "title": "Interview with Ashtiani, Mohammad-Reza: Tape 02",
+    "metadata": {
+      "Interviewee": "Ashtiani, Mohammad-Reza",
+      "Interview Date": "1982-01-28",
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888059",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "108.",
+    "title": "Interview with Azmoudeh, Hossein: Tape 01",
+    "metadata": {
+      "Interview Date": "1984-03-24",
+      "Interviewer": "Zia Sedghi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:610384",
+      "Interviewee": "Azmoudeh, Hossein",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "109.",
+    "title": "Interview with Azmoudeh, Hossein: Tape 02",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1984-03-24",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888067",
+      "Interviewee": "Azmoudeh, Hossein"
+    }
+  },
+  {
+    "document_counter": "110.",
+    "title": "Interview with Azmoudeh, Hossein: Tape 03",
+    "metadata": {
+      "Interview Date": "1984-03-25",
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888068",
+      "Interviewee": "Azmoudeh, Hossein"
+    }
+  },
+  {
+    "document_counter": "111.",
+    "title": "Interview with Azmoudeh, Hossein: Tape 04",
+    "metadata": {
+      "Interview Date": "1984-03-25",
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian",
+      "Interviewee": "Azmoudeh, Hossein",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888069"
+    }
+  },
+  {
+    "document_counter": "112.",
+    "title": "Interview with Azod-Qadjar, Abounasr: Tape 01",
+    "metadata": {
+      "Language": "Persian",
+      "Interview Date": "1986-05-19",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Azod-Qadjar, Abounasr"
+    }
+  },
+  {
+    "document_counter": "113.",
+    "title": "Interview with Azod-Qadjar, Abounasr: Tape 02",
+    "metadata": {
+      "Interviewee": "Azod-Qadjar, Abounasr",
+      "Language": "Persian",
+      "Interview Date": "1986-05-19",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "307.",
+    "title": "Interview with Fartash, Abbas: Tape 01",
+    "metadata": {
+      "Interviewee": "Fartash, Abbas",
+      "Interview Date": "1985-05-01",
+      "Language": "Persian",
+      "Interviewer": "Shahrokh Meskoob"
+    }
+  },
+  {
+    "document_counter": "310.",
+    "title": "Interview with Firouz (Nemazee), Safiyeh: Tape 01",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Firouz (Nemazee), Safiyeh",
+      "Interview Date": "1986-03-07"
+    }
+  },
+  {
+    "document_counter": "311.",
+    "title": "Interview with Firouz (Nemazee), Safiyeh: Tape 02",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Firouz (Nemazee), Safiyeh",
+      "Language": "Persian",
+      "Interview Date": "1986-03-07"
+    }
+  },
+  {
+    "document_counter": "320.",
+    "title": "Interview with Frye, Richard N.: Tape 01",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:611553",
+      "Interview Date": "1984-10-03",
+      "Language": "English",
+      "Interviewer": "Shahla Haeri",
+      "Interviewee": "Frye, Richard N."
+    }
+  },
+  {
+    "document_counter": "321.",
+    "title": "Interview with Frye, Richard N.: Tape 02",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888227",
+      "Interviewer": "Shahla Haeri",
+      "Interviewee": "Frye, Richard N.",
+      "Language": "English",
+      "Interview Date": "1984-10-03"
+    }
+  },
+  {
+    "document_counter": "322.",
+    "title": "Interview with Frye, Richard N.: Tape 03",
+    "metadata": {
+      "Interview Date": "1984-10-10",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888228",
+      "Interviewer": "Shahla Haeri",
+      "Interviewee": "Frye, Richard N.",
+      "Language": "English"
+    }
+  },
+  {
+    "document_counter": "323.",
+    "title": "Interview with Frye, Richard N.: Tape 04",
+    "metadata": {
+      "Language": "English",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888229",
+      "Interviewee": "Frye, Richard N.",
+      "Interviewer": "Shahla Haeri",
+      "Interview Date": "1984-10-10"
+    }
+  },
+  {
+    "document_counter": "324.",
+    "title": "Interview with Frye, Richard N.: Tape 05",
+    "metadata": {
+      "Interviewer": "Shahla Haeri",
+      "Interview Date": "1984-10-24",
+      "Language": "English",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888230",
+      "Interviewee": "Frye, Richard N."
+    }
+  },
+  {
+    "document_counter": "325.",
+    "title": "Interview with Frye, Richard N.: Tape 06",
+    "metadata": {
+      "Interviewee": "Frye, Richard N.",
+      "Language": "English",
+      "Interviewer": "Shahla Haeri",
+      "Interview Date": "1984-10-24",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888231"
+    }
+  },
+  {
+    "document_counter": "360.",
+    "title": "Interview with Hajiseyd-Djavadi, Hassan: Tape 01",
+    "metadata": {
+      "Language": "Persian",
+      "Interview Date": "1984-06-03",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433708",
+      "Interviewee": "Hajiseyd-Djavadi, Hassan",
+      "Interviewer": "Zia Sedghi"
+    }
+  },
+  {
+    "document_counter": "361.",
+    "title": "Interview with Hajiseyd-Djavadi, Hassan: Tape 02",
+    "metadata": {
+      "Interview Date": "1984-06-03",
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433709",
+      "Interviewer": "Zia Sedghi",
+      "Interviewee": "Hajiseyd-Djavadi, Hassan"
+    }
+  },
+  {
+    "document_counter": "362.",
+    "title": "Interview with Hajiseyd-Djavadi, Hassan: Tape 03",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433710",
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1984-06-05",
+      "Interviewee": "Hajiseyd-Djavadi, Hassan"
+    }
+  },
+  {
+    "document_counter": "363.",
+    "title": "Interview with Hajiseyd-Djavadi, Hassan: Tape 04",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/URN-3:FHCL:100433711",
+      "Interviewee": "Hajiseyd-Djavadi, Hassan",
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1984-06-05"
+    }
+  },
+  {
+    "document_counter": "372.",
+    "title": "Interview with Hasheminejad, Mohsen: Tape 07",
+    "metadata": {
+      "Interviewee": "Hasheminejad, Mohsen",
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1986-01-23",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:1264920"
+    }
+  },
+  {
+    "document_counter": "390.",
+    "title": "Interview with Homayouni, Fazlollah: Tape 01",
+    "metadata": {
+      "Interview Date": "1984-10-05",
+      "Interviewee": "Homayouni, Fazlollah",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:612955"
+    }
+  },
+  {
+    "document_counter": "391.",
+    "title": "Interview with Homayouni, Fazlollah: Tape 02",
+    "metadata": {
+      "Interviewee": "Homayouni, Fazlollah",
+      "Interview Date": "1984-10-05",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888282",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "392.",
+    "title": "Interview with Homayouni, Fazlollah: Tape 03",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888283",
+      "Interviewee": "Homayouni, Fazlollah",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1984-10-05"
+    }
+  },
+  {
+    "document_counter": "393.",
+    "title": "Interview with Homayouni, Fazlollah: Tape 04",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1984-10-05",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888284",
+      "Interviewee": "Homayouni, Fazlollah",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "394.",
+    "title": "Interview with Homayouni, Fazlollah: Tape 05",
+    "metadata": {
+      "Interview Date": "1984-10-05",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Homayouni, Fazlollah",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888285",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "395.",
+    "title": "Interview with Homayouni, Fazlollah: Tape 06",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888286",
+      "Language": "Persian",
+      "Interview Date": "1984-10-05",
+      "Interviewee": "Homayouni, Fazlollah",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "396.",
+    "title": "Interview with Homayouni, Fazlollah: Tape 07",
+    "metadata": {
+      "Interview Date": "1984-10-05",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888287",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Homayouni, Fazlollah"
+    }
+  },
+  {
+    "document_counter": "397.",
+    "title": "Interview with Homayouni, Fazlollah: Tape 08",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888288",
+      "Interviewee": "Homayouni, Fazlollah",
+      "Language": "Persian",
+      "Interview Date": "1984-10-05"
+    }
+  },
+  {
+    "document_counter": "412.",
+    "title": "Interview with Kalali, Manouchehr: Tape 01",
+    "metadata": {
+      "Interview Date": "1983-08-08",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Kalali, Manouchehr",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "413.",
+    "title": "Interview with Kalali, Manouchehr: Tape 02",
+    "metadata": {
+      "Interview Date": "1983-08-08",
+      "Interviewee": "Kalali, Manouchehr",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "414.",
+    "title": "Interview with Kamrooz-Atabai, Badry: Tape 01",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:619306",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Kamrooz-Atabai, Badry",
+      "Language": "Persian",
+      "Interview Date": "1984-04-11"
+    }
+  },
+  {
+    "document_counter": "415.",
+    "title": "Interview with Kamrooz-Atabai, Badry: Tape 02",
+    "metadata": {
+      "Interview Date": "1984-04-11",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Kamrooz-Atabai, Badry",
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888293"
+    }
+  },
+  {
+    "document_counter": "416.",
+    "title": "Interview with Kamrooz-Atabai, Badry: Tape 03",
+    "metadata": {
+      "Interviewee": "Kamrooz-Atabai, Badry",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888294",
+      "Interview Date": "1984-04-11",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "417.",
+    "title": "Interview with Kamrooz-Atabai, Badry: Tape 04",
+    "metadata": {
+      "Interviewee": "Kamrooz-Atabai, Badry",
+      "Interview Date": "1984-04-11",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888295",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "460.",
+    "title": "Interview with Lankarani, Mostafa: Tape 01",
+    "metadata": {
+      "Interviewee": "Lankarani, Mostafa",
+      "Language": "Persian",
+      "Interview Date": "1985-05-13",
+      "Interviewer": "Zia Sedghi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:938022"
+    }
+  },
+  {
+    "document_counter": "461.",
+    "title": "Interview with Lankarani, Mostafa: Tape 02",
+    "metadata": {
+      "Interviewee": "Lankarani, Mostafa",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1985-05-13",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:1264921",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "462.",
+    "title": "Interview with Lankarani, Mostafa: Tape 03",
+    "metadata": {
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1985-05-13",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:1264922",
+      "Language": "Persian",
+      "Interviewee": "Lankarani, Mostafa"
+    }
+  },
+  {
+    "document_counter": "463.",
+    "title": "Interview with Lankarani, Mostafa: Tape 04",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1985-05-17",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:1264923",
+      "Interviewee": "Lankarani, Mostafa"
+    }
+  },
+  {
+    "document_counter": "464.",
+    "title": "Interview with Lankarani, Mostafa: Tape 05",
+    "metadata": {
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:1264924",
+      "Interviewee": "Lankarani, Mostafa",
+      "Interview Date": "1985-05-17",
+      "Interviewer": "Zia Sedghi"
+    }
+  },
+  {
+    "document_counter": "465.",
+    "title": "Interview with Lankarani, Mostafa: Tape 06",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewee": "Lankarani, Mostafa",
+      "Interview Date": "1985-05-17",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:1264925",
+      "Interviewer": "Zia Sedghi"
+    }
+  },
+  {
+    "document_counter": "466.",
+    "title": "Interview with Lankarani, Mostafa: Tape 07",
+    "metadata": {
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian",
+      "Interviewee": "Lankarani, Mostafa",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:1264926",
+      "Interview Date": "1985-05-17"
+    }
+  },
+  {
+    "document_counter": "467.",
+    "title": "Interview with Lankarani, Mostafa: Tape 08",
+    "metadata": {
+      "Interviewee": "Lankarani, Mostafa",
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:1264927",
+      "Interview Date": "1985-05-17"
+    }
+  },
+  {
+    "document_counter": "468.",
+    "title": "Interview with Lankarani, Mostafa: Tape 09",
+    "metadata": {
+      "Interviewee": "Lankarani, Mostafa",
+      "Interview Date": "1985-05-17",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:1264928",
+      "Interviewer": "Zia Sedghi",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "469.",
+    "title": "Interview with Lankarani, Mostafa: Tape 10",
+    "metadata": {
+      "Interview Date": "1985-05-17",
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interviewee": "Lankarani, Mostafa",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:1264929"
+    }
+  },
+  {
+    "document_counter": "470.",
+    "title": "Interview with Lankarani, Mostafa: Tape 11",
+    "metadata": {
+      "Interviewer": "Zia Sedghi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:1264930",
+      "Language": "Persian",
+      "Interview Date": "1985-05-21",
+      "Interviewee": "Lankarani, Mostafa"
+    }
+  },
+  {
+    "document_counter": "214.",
+    "title": "Interview with Djafroudi, Kazem: Tape 02",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Djafroudi, Kazem",
+      "Interview Date": "1985-10-21",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888153",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "241.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 11",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888177",
+      "Interview Date": "1981-12-01",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "242.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 12",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888178",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1981-12-02",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "243.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 13",
+    "metadata": {
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888179",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Interview Date": "1981-12-02"
+    }
+  },
+  {
+    "document_counter": "244.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 14",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1981-12-02",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888180"
+    }
+  },
+  {
+    "document_counter": "245.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 15",
+    "metadata": {
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888181",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1982-08-06",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "246.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 16",
+    "metadata": {
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Interview Date": "1982-08-06",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888182"
+    }
+  },
+  {
+    "document_counter": "247.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 17",
+    "metadata": {
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888183",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1982-08-08"
+    }
+  },
+  {
+    "document_counter": "248.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 18",
+    "metadata": {
+      "Interview Date": "1982-08-08",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888184",
+      "Language": "Persian",
+      "Interviewee": "Ebtehaj, Abolhassan"
+    }
+  },
+  {
+    "document_counter": "249.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 19",
+    "metadata": {
+      "Language": "Persian",
+      "Interview Date": "1982-08-09",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888185",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "250.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 20",
+    "metadata": {
+      "Interview Date": "1982-08-09",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888186",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "251.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 21",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1982-08-10",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888187"
+    }
+  },
+  {
+    "document_counter": "252.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 22",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888188",
+      "Interview Date": "1982-08-10"
+    }
+  },
+  {
+    "document_counter": "253.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 23",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888189",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1982-08-11",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "254.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 24",
+    "metadata": {
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888190",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1982-08-11",
+      "Interviewee": "Ebtehaj, Abolhassan"
+    }
+  },
+  {
+    "document_counter": "255.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 25",
+    "metadata": {
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Interview Date": "1982-08-12",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888191"
+    }
+  },
+  {
+    "document_counter": "256.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 26",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888192",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Language": "Persian",
+      "Interview Date": "1982-08-12"
+    }
+  },
+  {
+    "document_counter": "257.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 27",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1982-08-13",
+      "Language": "Persian",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888193"
+    }
+  },
+  {
+    "document_counter": "258.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 28",
+    "metadata": {
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888194",
+      "Interview Date": "1982-08-13",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Ebtehaj, Abolhassan"
+    }
+  },
+  {
+    "document_counter": "259.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 29",
+    "metadata": {
+      "Interview Date": "1982-08-14",
+      "Interviewer": "Habib Ladjevardi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888195",
+      "Language": "Persian",
+      "Interviewee": "Ebtehaj, Abolhassan"
+    }
+  },
+  {
+    "document_counter": "260.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 30",
+    "metadata": {
+      "Language": "Persian",
+      "Interview Date": "1982-08-14",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888196",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "261.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 31",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1982-08-14",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888197"
+    }
+  },
+  {
+    "document_counter": "262.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 32",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1982-08-14",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888198",
+      "Language": "Persian",
+      "Interviewee": "Ebtehaj, Abolhassan"
+    }
+  },
+  {
+    "document_counter": "263.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 33",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888199",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Language": "Persian",
+      "Interviewer": "Ali-Reza Arouzi",
+      "Interview Date": "1982-08-21"
+    }
+  },
+  {
+    "document_counter": "264.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 34",
+    "metadata": {
+      "Interviewer": "Ali-Reza Arouzi",
+      "Language": "Persian",
+      "Interview Date": "1982-08-21",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888200"
+    }
+  },
+  {
+    "document_counter": "265.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 35",
+    "metadata": {
+      "Interview Date": "1982-08-23",
+      "Interviewer": "Ali-Reza Arouzi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888201",
+      "Language": "Persian",
+      "Interviewee": "Ebtehaj, Abolhassan"
+    }
+  },
+  {
+    "document_counter": "266.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 36",
+    "metadata": {
+      "Language": "Persian",
+      "Interview Date": "1982-08-23",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888202",
+      "Interviewer": "Ali-Reza Arouzi",
+      "Interviewee": "Ebtehaj, Abolhassan"
+    }
+  },
+  {
+    "document_counter": "267.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 37",
+    "metadata": {
+      "Interview Date": "1982-08-25",
+      "Interviewer": "Ali-Reza Arouzi",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888203",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "268.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 38",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888204",
+      "Interviewer": "Ali-Reza Arouzi",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Interview Date": "1982-08-25",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "269.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 39",
+    "metadata": {
+      "Language": "Persian",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888205",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Interviewer": "Ali-Reza Arouzi",
+      "Interview Date": "1982-08-25"
+    }
+  },
+  {
+    "document_counter": "270.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 40",
+    "metadata": {
+      "Interview Date": "1982-08-25",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888206",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Interviewer": "Ali-Reza Arouzi",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "271.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 41",
+    "metadata": {
+      "Interview Date": "1982-08-25",
+      "Language": "Persian",
+      "Interviewer": "Ali-Reza Arouzi",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888207"
+    }
+  },
+  {
+    "document_counter": "272.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 42",
+    "metadata": {
+      "Interview Date": "1982-08-29",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Interviewer": "Ali-Reza Arouzi",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888208",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "273.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 43",
+    "metadata": {
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888209",
+      "Language": "Persian",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Interview Date": "1982-08-30",
+      "Interviewer": "Ali-Reza Arouzi"
+    }
+  },
+  {
+    "document_counter": "274.",
+    "title": "Interview with Ebtehaj, Abolhassan: Tape 44",
+    "metadata": {
+      "Interview Date": "1982-08-30",
+      "Interviewee": "Ebtehaj, Abolhassan",
+      "Transcript": "https://nrs.harvard.edu/urn-3:FHCL:888210",
+      "Interviewer": "Ali-Reza Arouzi",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "283.",
+    "title": "Interview with Fardoust, Tala: Tape 01",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Fardoust, Tala",
+      "Interview Date": "1983-10-06"
+    }
+  },
+  {
+    "document_counter": "284.",
+    "title": "Interview with Fardoust, Tala: Tape 02",
+    "metadata": {
+      "Interview Date": "1983-10-06",
+      "Interviewee": "Fardoust, Tala",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "285.",
+    "title": "Interview with Fardoust, Tala: Tape 03",
+    "metadata": {
+      "Interview Date": "1983-10-06",
+      "Language": "Persian",
+      "Interviewee": "Fardoust, Tala",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "286.",
+    "title": "Interview with Fardoust, Tala: Tape 04",
+    "metadata": {
+      "Interviewee": "Fardoust, Tala",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Interview Date": "1983-10-06"
+    }
+  },
+  {
+    "document_counter": "600.",
+    "title": "Interview with Mohtadi, Ali-Akbar: Tape 01",
+    "metadata": {
+      "Interviewee": "Mohtadi, Ali-Akbar",
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi",
+      "Interview Date": "1983-05-07"
+    }
+  },
+  {
+    "document_counter": "601.",
+    "title": "Interview with Mohtadi, Ali-Akbar: Tape 02",
+    "metadata": {
+      "Interviewer": "Zia Sedghi",
+      "Interviewee": "Mohtadi, Ali-Akbar",
+      "Interview Date": "1983-05-07",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "602.",
+    "title": "Interview with Mohtadi, Ali-Akbar: Tape 03",
+    "metadata": {
+      "Interview Date": "1983-05-07",
+      "Interviewee": "Mohtadi, Ali-Akbar",
+      "Language": "Persian",
+      "Interviewer": "Zia Sedghi"
+    }
+  },
+  {
+    "document_counter": "603.",
+    "title": "Interview with Mohtadi, Ali-Akbar: Tape 04",
+    "metadata": {
+      "Interview Date": "1983-05-09",
+      "Interviewer": "Zia Sedghi",
+      "Interviewee": "Mohtadi, Ali-Akbar",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "650.",
+    "title": "Interview with Nozari-Kasrai, Mehri: Tape 01",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Nozari-Kasrai, Mehri",
+      "Language": "Persian",
+      "Interview Date": "1998-04-10"
+    }
+  },
+  {
+    "document_counter": "651.",
+    "title": "Interview with Nozari-Kasrai, Mehri: Tape 02",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Nozari-Kasrai, Mehri",
+      "Interview Date": "1998-04-11",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "652.",
+    "title": "Interview with Nozari-Kasrai, Mehri: Tape 03",
+    "metadata": {
+      "Interview Date": "1998-04-11",
+      "Interviewer": "Habib Ladjevardi",
+      "Language": "Persian",
+      "Interviewee": "Nozari-Kasrai, Mehri"
+    }
+  },
+  {
+    "document_counter": "653.",
+    "title": "Interview with Nozari-Kasrai, Mehri: Tape 04",
+    "metadata": {
+      "Interview Date": "1998-04-11",
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Nozari-Kasrai, Mehri",
+      "Language": "Persian"
+    }
+  },
+  {
+    "document_counter": "654.",
+    "title": "Interview with Nozari-Kasrai, Mehri: Tape 05",
+    "metadata": {
+      "Interviewee": "Nozari-Kasrai, Mehri",
+      "Interview Date": "1998-04-12",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "655.",
+    "title": "Interview with Nozari-Kasrai, Mehri: Tape 06",
+    "metadata": {
+      "Language": "Persian",
+      "Interviewee": "Nozari-Kasrai, Mehri",
+      "Interview Date": "1998-04-12",
+      "Interviewer": "Habib Ladjevardi"
+    }
+  },
+  {
+    "document_counter": "656.",
+    "title": "Interview with Nozari-Kasrai, Mehri: Tape 07",
+    "metadata": {
+      "Interviewee": "Nozari-Kasrai, Mehri",
+      "Language": "Persian",
+      "Interviewer": "Habib Ladjevardi",
+      "Interview Date": "1999-12-21"
+    }
+  },
+  {
+    "document_counter": "657.",
+    "title": "Interview with Nozari-Kasrai, Mehri: Tape 08",
+    "metadata": {
+      "Interviewer": "Habib Ladjevardi",
+      "Interviewee": "Nozari-Kasrai, Mehri",
+      "Language": "Persian",
+      "Interview Date": "1999-12-21"
+    }
   }
 ]
