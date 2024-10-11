@@ -15,12 +15,12 @@ async fn main() -> Result<(), Box<dyn Error + Send + Sync>> {
         .collect();
 
     let thread_pool = tokio::runtime::Builder::new_multi_thread()
-        .worker_threads(16)
+        .worker_threads(8)
         .enable_io()
         .enable_time()
         .build()?;
 
-    let chunks = urls.chunks(16);
+    let chunks = urls.chunks(8);
     for chunk in chunks.progress() {
         let mut futs = vec![];
 
@@ -45,15 +45,15 @@ async fn compress_audio(url: String) -> Result<(), Box<dyn Error + Send + Sync>>
 
     println!("Compressing: {}", file_name);
 
-    // ffmpeg -i file.mp3 -ab 32k -f ogg file.ogg
+    // ffmpeg -i z.mp3 -c:a libvorbis -q:a 2 z.ogg
     let _ = std::process::Command::new("ffmpeg")
         .args(&[
             "-i",
             &file_path,
-            "-ab",
-            "32k",
-            "-f",
-            "ogg",
+            "-c:a",
+            "libvorbis",
+            "-q:a",
+            "2",
             format!("audio/{}", ioh_scrap::file_name_by_url(&url, "ogg")).as_str(),
         ]).output()?;
 
