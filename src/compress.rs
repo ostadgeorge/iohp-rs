@@ -46,14 +46,16 @@ async fn compress_audio(url: String) -> Result<(), Box<dyn Error + Send + Sync>>
     println!("Compressing: {}", file_name);
 
     // ffmpeg -i z.mp3 -c:a libvorbis -q:a 2 z.ogg
+    // ffmpeg -i z.mp3 -vn -acodec libopus -b:a 16k z.ogg
     let _ = std::process::Command::new("ffmpeg")
         .args(&[
             "-i",
             &file_path,
-            "-c:a",
-            "libvorbis",
-            "-q:a",
-            "2",
+            "-vn",
+            "-acodec",
+            "libopus",
+            "-b:a",
+            "16k",
             format!("audio/{}", ioh_scrap::file_name_by_url(&url, "ogg")).as_str(),
         ]).output()?;
 

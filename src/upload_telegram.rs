@@ -14,6 +14,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let token = std::env::var("BOT_TOKEN")?;
     let chat_id = std::env::var("CHAT_ID")?;
 
+    // let bot = teloxide::Bot::new(token).set_api_url("https://telegram.ostadgeorge.workers.dev/bot".parse()?);
     let bot = teloxide::Bot::new(token);
 
     let mut data: Vec<Item> = serde_json::from_str(&fs::read_to_string("data_with_sound.json")?)?;
